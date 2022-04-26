@@ -9,9 +9,6 @@ An excel file including the positional data (latitude and longitude) of sections
 Selected route sections can be visualized through a folium map. 
 
 
-<b> Sample input dataset </b> 
-
-![sample_dataset](https://user-images.githubusercontent.com/89911053/165280569-5e50491c-f7cd-4722-b486-de1ccea0b8d6.JPG)
 
 <b> Sample output dataset </b> 
 
